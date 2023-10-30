@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(174, 202, 255);
+}
+#container {
+  background-color: white;
+  border-radius: 3rem;
+  width: 60%;
+}
+a {
+  text-decoration: none;
+  color: #2898ee;
+}
+span {
+  color: #2898ee;
+}
+.btn {
+  width: 70%;
+  background-color: #2898ee;
+}
